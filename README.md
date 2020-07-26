@@ -1,4 +1,8 @@
-# ReKordboxMaxPatch
+# max-OnlineB2B
+
+## Software
+- rekordbox
+- Max8
 
 ## Authors
 ryo-simon-mf
